@@ -1,0 +1,231 @@
+/* Icons ref : https://github.com/feathericons/feather */
+
+.button.feather {
+    display: -webkit-inline-box;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+}
+
+@font-face {
+    font-family: 'feather';
+    src:  url('./fonts/feather.eot?ccduja');
+    src:  /*url('./fonts/feather.eot?ccduja#iefix') format('embedded-opentype'),
+      url('./fonts/feather.ttf?ccduja') format('truetype'),
+      url('./fonts/feather.svg?ccduja#feather') format('svg'),*/
+      url('./fonts/feather.woff?ccduja') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+  }
+  
+  i {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'feather' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+  
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  .icon-activity:before {
+    content: "\e900";
+  }
+  .icon-alert-circle:before {
+    content: "\e902";
+  }
+  .icon-arrow-left:before {
+    content: "\e910";
+  }
+  .icon-arrow-right:before {
+    content: "\e912";
+  }
+  .icon-at-sign:before {
+    content: "\e918";
+  }
+  .icon-book-open:before {
+    content: "\e923";
+  }
+  .icon-bookmark:before {
+    content: "\e924";
+  }
+  .icon-calendar:before {
+    content: "\e927";
+  }
+  .icon-camera:before {
+    content: "\e928";
+  }
+  .icon-cast:before {
+    content: "\e92a";
+  }
+  .icon-check:before {
+    content: "\e92b";
+  }
+  .icon-chevron-down:before {
+    content: "\e92e";
+  }
+  .icon-chevron-right:before {
+    content: "\e930";
+  }
+  .icon-clock:before {
+    content: "\e939";
+  }
+  .icon-cloud:before {
+    content: "\e93a";
+  }
+  .icon-code:before {
+    content: "\e940";
+  }
+  .icon-codepen:before {
+    content: "\e941";
+  }
+  .icon-coffee:before {
+    content: "\e943";
+  }
+  .icon-corner-up-left:before {
+    content: "\e94e";
+  }
+  .icon-corner-up-right:before {
+    content: "\e94f";
+  }
+  .icon-credit-card:before {
+    content: "\e951";
+  }
+  .icon-database:before {
+    content: "\e954";
+  }
+  .icon-download:before {
+    content: "\e958";
+  }
+  .icon-download-cloud:before {
+    content: "\e959";
+  }
+  .icon-droplet:before {
+    content: "\e95a";
+  }
+  .icon-edit:before {
+    content: "\e95b";
+  }
+  .icon-edit-2:before {
+    content: "\e95c";
+  }
+  .icon-eye:before {
+    content: "\e95f";
+  }
+  .icon-facebook:before {
+    content: "\e961";
+  }
+  .icon-feather:before {
+    content: "\e963";
+  }
+  .icon-file:before {
+    content: "\e965";
+  }
+  .icon-film:before {
+    content: "\e969";
+  }
+  .icon-folder:before {
+    content: "\e96c";
+  }
+  .icon-github:before {
+    content: "\e976";
+  }
+  .icon-gitlab:before {
+    content: "\e977";
+  }
+  .icon-grid:before {
+    content: "\e979";
+  }
+  .icon-heart:before {
+    content: "\e97d";
+  }
+  .icon-help-circle:before {
+    content: "\e97e";
+  }
+  .icon-home:before {
+    content: "\e980";
+  }
+  .icon-info:before {
+    content: "\e983";
+  }
+  .icon-layers:before {
+    content: "\e987";
+  }
+  .icon-lock:before {
+    content: "\e98f";
+  }
+  .icon-log-in:before {
+    content: "\e990";
+  }
+  .icon-log-out:before {
+    content: "\e991";
+  }
+  .icon-mail:before {
+    content: "\e992";
+  }
+  .icon-map-pin:before {
+    content: "\e994";
+  }
+  .icon-menu:before {
+    content: "\e998";
+  }
+  .icon-message-square:before {
+    content: "\e99a";
+  }
+  .icon-monitor:before {
+    content: "\e9a2";
+  }
+  .icon-phone:before {
+    content: "\e9b2";
+  }
+  .icon-rss:before {
+    content: "\e9c9";
+  }
+  .icon-search:before {
+    content: "\e9cc";
+  }
+  .icon-server:before {
+    content: "\e9ce";
+  }
+  .icon-shopping-cart:before {
+    content: "\e9d5";
+  }
+  .icon-tag:before {
+    content: "\e9e7";
+  }
+  .icon-tool:before {
+    content: "\e9ef";
+  }
+  .icon-trash-2:before {
+    content: "\e9f1";
+  }
+  .icon-twitch:before {
+    content: "\e9f8";
+  }
+  .icon-twitter:before {
+    content: "\e9f9";
+  }
+  .icon-user:before {
+    content: "\ea00";
+  }
+  .icon-users:before {
+    content: "\ea05";
+  }
+  .icon-wifi:before {
+    content: "\ea0e";
+  }
+  .icon-youtube:before {
+    content: "\ea15";
+  }
+  .icon-x:before {
+    content: "\ea11";
+  }
+  
