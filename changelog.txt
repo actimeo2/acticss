@@ -1,0 +1,16 @@
+﻿### ACTI/UX Public Beta 0.8 (2020/04/30) ###
+[+] Réalisation de la documentation initiale
+[+] Création de nouveaux éléments
+[+] Corrections tailles des polices
+
+### ACTI/UX Private Beta 0.7 (2020/03/17) ###
+[+] Création de nouveaux éléments
+
+### ACTI/UX Private Alpha 0.6 (2020/02/26) ###
+[+] Création de nouveaux éléments
+
+### ACTI/UX Pré-alpha 0.5 (2020/01/28) ###
+[+] Création de nouveaux éléments
+
+### ACTI/UX Pré-chauffage 0.1 (2019/12/02) ###
+[+] Mini grille FlexBox
