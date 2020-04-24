@@ -1,6 +1,7 @@
 /* actiux.css 0.8 - 23/04/2020
-par William Kiesele - actimeo.fr
-MIT Licence : https://fr.wikipedia.org/wiki/Licence_MIT
+* par actimeo SARL - 47200 Marmande
+* actimeo.fr
+* MIT Licence : https://opensource.org/licenses/mit-license.php
 */
 
 html, body, p, ol, ul, li, dl, dt, dd, blockquote, figure, fieldset, legend, textarea, pre, iframe, hr, h1, h2, h3, h4, h5, h6 {
@@ -1929,7 +1930,7 @@ img.is-rounded {
     margin-right: 0
 }
 
-.tag.bg-primary, .tag.bg-info, .tag.bg-success, .tag.bg-warning, .tag.bg-danger, .tag.bg-grey, .tag.bg-dark-grey, .tag.bg-black {
+.tag.bg-primary, .tag.bg-info, .tag.bg-success, .tag.bg-warning, .tag.bg-danger, .tag.bg-grey, .tag.bg-dark2, .tag.bg-black {
     color: var(--color-white)!important
 }
 
