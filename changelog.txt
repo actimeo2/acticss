@@ -15,15 +15,15 @@
 [+] Création de nouveaux éléments
 
 ### ACTI/UX Pré-chauffage 0.4 (2019/12/02) ###
-[+] Ajouts nouveaux éléments
+[+] Création de nouveaux éléments
 [+] Création de la page documentation
 
 ### ACTI/UX Pré-chauffage 0.3 (2019/12/02) ###
 [+] Création d'un template pour tout tester
-[+] Ajouts nouveaux éléments
+[+] Création de nouveaux éléments
 
 ### ACTI/UX Pré-chauffage 0.2 (2019/12/02) ###
-[+] Ajouts nouveaux éléments
+[+] Création de nouveaux éléments
 
 ### ACTI/UX Pré-chauffage 0.1 (2019/12/02) ###
 [+] Mini grille FlexBox
