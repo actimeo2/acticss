@@ -1,5 +1,7 @@
-﻿### ACTI/UX Public Beta 0.8 (2020/04/30) ###
-[+] Réalisation de la documentation initiale
+﻿Version actuelle : 0.8
+
+### ACTI/UX Public Beta 0.8 (2020/04/30) ###
+[+] MAJ documentation
 [+] Création de nouveaux éléments
 [+] Corrections tailles des polices
 
@@ -11,6 +13,17 @@
 
 ### ACTI/UX Pré-alpha 0.5 (2020/01/28) ###
 [+] Création de nouveaux éléments
+
+### ACTI/UX Pré-chauffage 0.4 (2019/12/02) ###
+[+] Ajouts nouveaux éléments
+[+] Création de la page documentation
+
+### ACTI/UX Pré-chauffage 0.3 (2019/12/02) ###
+[+] Création d'un template pour tout tester
+[+] Ajouts nouveaux éléments
+
+### ACTI/UX Pré-chauffage 0.2 (2019/12/02) ###
+[+] Ajouts nouveaux éléments
 
 ### ACTI/UX Pré-chauffage 0.1 (2019/12/02) ###
 [+] Mini grille FlexBox
