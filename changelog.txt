@@ -6,7 +6,7 @@
 [+] Nouveaux Breakpoints
 [+] Intégration premiers éléments RGAA
 [+] Création de nouveaux éléments
-[+] Ajouts de composants
+[+] Prises en compte d'icônes svg (css.gg, heroicons.dev) ou d'icônes populaires (ionicons, Font Awesomme...)
 [+] Intégration de Grid Layout 
 [+] Optilmisation des classes
 
