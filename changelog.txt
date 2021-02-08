@@ -6,7 +6,7 @@
 [+] Réorganisation des classes qui permettent d'ordonner les colonnes en fonction du média utilisé.
 [+] Root : ajout --color-secondary et --color-light-secondary.
 [+] Séparation des extensions d'actiux vers un nouveau fichier actiux-ext.css pour alléger le fichier principal actiux.css
-[+] Ajout de .is-flex-middle qui remplacera plus tard .vaf qui ne voulait rien dire.
+[+] Ajout de .is-flex-middle qui remplacera plus tard .vaf qui ne veut rien dire.
 
 
 ### ACTI/UX Public 0.9 (2020/11/04) ###
