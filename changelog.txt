@@ -7,6 +7,8 @@
 [+] Root : ajout --color-secondary et --color-light-secondary.
 [+] Séparation des extensions d'actiux vers un nouveau fichier actiux-ext.css pour alléger le fichier principal actiux.css
 [+] Ajout de .is-flex-middle qui remplacera plus tard .vaf qui ne veut rien dire.
+[+] Ajout de 4 classes de border-radius - bd-rad-xs / bd-rad-sml / bd-rad-med / bd-rad-lrg
+[+] Correction de la classe link-white
 
 
 ### ACTI/UX Public 0.9 (2020/11/04) ###
