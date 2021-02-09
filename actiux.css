@@ -1226,11 +1226,11 @@ input:disabled, select:disabled, button:disabled, textarea:disabled {
     color: rgba(0, 0, 0, .25);
 }
 
-.link-white a {
+a.link-white {
     color: var(--color-white)!important
 }
 
-.link-white a:hover {
+a.link-white:hover {
     opacity: .8
 }
 
@@ -1676,6 +1676,10 @@ a:hover img {
 
 /* NAVBAR */
 
+.nav-container { 
+    background: var(--color-dark2);
+}
+
 #navbar ul li {
     margin-left: 0;
     text-align: left;
@@ -1709,6 +1713,7 @@ a:hover img {
 
 #navbar ul li ul, #navbar ul li span+ul {
     display: none;
+    z-index: 10000;
 }
 
 #navbar ul li:hover, #navbar span:hover {
@@ -1798,6 +1803,10 @@ a:hover img {
     #navbar ul li:hover ul {
         width: 100%;
         position: relative;
+    }
+
+    #navbar .button {
+        float: left;
     }
 }
 
