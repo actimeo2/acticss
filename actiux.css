@@ -1,12 +1,13 @@
-/* actiux 1.0 - 08/02/2021
+/* actiux 1.0.1 - 17/02/2021
 * par William Kiesele
 * actimeo.fr
 * MIT Licence : https://opensource.org/licenses/mit-license.php
 */
 
 :root {
-    --color-primary: #5e50b2;
-    --color-secondary: #7045AA;
+    --color-primary: #7045AA;
+    --color-secondary: #41C8F2;
+    --color-light-secondary: #e3fafc;
     --color-success: #37b24d;
     --color-info: #12a2d2;
     --color-warning: #f59f00;
@@ -16,8 +17,7 @@
     --color-light-info: #e7f5ff;
     --color-light-warning: #fff9db;
     --color-light-danger: #fff5f5;
-    --color-light-secondary: #efe3ff;
-    --color-writing: #343a40;
+    --color-writing: #6a6a85;
     --color-body: #fff;
     --color-light1: #f1f3f5;
     --color-light2: #e9ecef;
@@ -114,18 +114,13 @@ body {
     padding: 0 1rem;
 }
 
-.container-1140 {
-    max-width: 1140px;
-    margin: 0 auto;
-    padding: 0 1rem;
-}
-
 /* Grille Flexbox */
 
 .grid>* {
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
     flex-basis: 100%;
+  
 }
 
 .grid {
@@ -170,14 +165,11 @@ body {
     flex: initial;
 }
 
-.full-width .grid {
-    margin-left: 0rem;
-    margin-right: 0rem;
-}
-
-.full-width .col {
-    padding-left: 0rem;
-    padding-right: 0rem;
+.is-full-width {
+    width: 100%!important;
+    position: relative;
+    margin-left: 0rem!important;
+    margin-right: 0rem!important;
 }
 
 .is-flex-end {
@@ -872,6 +864,7 @@ input[type="submit"]:hover, input[type="button"]:hover {
     cursor: pointer;
     border-radius: var(--border-radius);
     margin: .5rem .5rem .5rem 0;
+    position: relative;
 }
 
 .button.is-clear {
@@ -1283,11 +1276,6 @@ a.link-white:hover {
     min-height: 100vh
 }
 
-.is-full-width, .full-width {
-    width: 100%!important;
-    position: relative;
-}
-
 /**/
 
 .text-normal {
@@ -1347,13 +1335,13 @@ a.link-white:hover {
 }
 
 @media screen and (min-width:0px) and (max-width:688px) {
-    .fs-l-mob {
+    .fs-lrg-mob {
         font-size: 4rem!important
     }
-    .fs-m-mob {
+    .fs-med-mob {
         font-size: 2.5rem!important
     }
-    .fs-s-mob {
+    .fs-sml-mob {
         font-size: 2rem!important
     }
     .fs-xs-mob {
@@ -1808,6 +1796,22 @@ a:hover img {
     #navbar .button {
         float: left;
     }
+}
+
+/* svg */
+
+.svg {
+    display: inline-block;
+    width: 2.4rem;
+    height: 2.4rem;
+    vertical-align: text-top;
+}
+
+.svg-16 {
+    display: inline-block;
+    width: 1.6rem;
+    height: 1.6rem;
+    vertical-align: text-top;
 }
 
 /* Toutes les règles pour les petits mobiles en dessous de 480px */
