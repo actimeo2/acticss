@@ -2,7 +2,7 @@
  
 ### ACTI/UX Public 1.0.1 (2021/02/17) ###
 [+] Classe .is-full-width améliorée et suppression de : .is-full-width, .full-width 
-[+] Les classes fs-s-mob / fs-m-mob et fs-l-mod sont nommé comme les colonnes pour plus de cohérence (fs-sml-mob, fs-med-mob, fs-lrg-mob)
+[+] Les classes fs-s-mob / fs-m-mob et fs-l-mod sont renommées comme les colonnes pour plus de cohérence (fs-sml-mob, fs-med-mob, fs-lrg-mob)
 [+] Ajout de la classe .svg et .svg16 pour la prise en charge plus simple d'icônes de types svg.
 
 ### ACTI/UX Public 1.0 (2021/02/08) ###
