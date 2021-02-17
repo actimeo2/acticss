@@ -58,6 +58,7 @@ button, input, select, textarea {
     margin: 0;
     border: 0;
     padding: 0;
+    -webkit-tap-highlight-color: transparent;
 }
 
 html {
