@@ -1,17 +1,18 @@
 ﻿Version actuelle : 1.0.1
  
 ### ACTI/UX Public 1.0.1 (2021/02/17) ###
+[+] Changement de la couleur d'écriture plus contrastée
 [+] Classe .is-full-width améliorée et suppression de : .is-full-width, .full-width 
 [+] Les classes fs-s-mob / fs-m-mob et fs-l-mod sont renommées comme les colonnes pour plus de cohérence (fs-sml-mob, fs-med-mob, fs-lrg-mob)
-[+] Ajout de la classe .svg et .svg16 pour la prise en charge plus simple d'icônes de types svg.
+[+] Ajout de la classe .svg et .svg16 pour la prise en charge plus simple d'icônes de types svg
 
 ### ACTI/UX Public 1.0 (2021/02/08) ###
 [+] Amélioration du reset.
-[+] Suppression d'un bug de margin right dans la grille.
+[+] Suppression d'un bug de margin right dans la grille
 [+] Réorganisation des classes qui permettent d'ordonner les colonnes en fonction du média utilisé.
-[+] Root : ajout --color-secondary et --color-light-secondary.
+[+] Root : ajout --color-secondary et --color-light-secondary
 [+] Séparation des extensions d'actiux vers un nouveau fichier actiux-ext.css pour alléger le fichier principal actiux.css
-[+] Ajout de .is-flex-middle qui remplacera plus tard .vaf qui ne veut rien dire.
+[+] Ajout de .is-flex-middle qui remplacera plus tard .vaf qui ne veut rien dire
 [+] Ajout de 4 classes de border-radius - bd-rad-xs / bd-rad-sml / bd-rad-med / bd-rad-lrg
 [+] Correction de la classe link-white
 
