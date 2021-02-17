@@ -2,6 +2,7 @@
  
 ### ACTI/UX Public 1.0.1 (2021/02/17) ###
 [+] Changement de la couleur d'écriture plus contrastée
+[+] Optimisation du reset pour éviter les "blue screen" sur les menus (contribution Matthieu Sarrau)
 [+] Classe .is-full-width améliorée et suppression de : .is-full-width, .full-width 
 [+] Les classes fs-s-mob / fs-m-mob et fs-l-mod sont renommées comme les colonnes pour plus de cohérence (fs-sml-mob, fs-med-mob, fs-lrg-mob)
 [+] Ajout de la classe .svg et .svg16 pour la prise en charge plus simple d'icônes de types svg
