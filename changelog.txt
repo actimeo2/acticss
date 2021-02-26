@@ -1,5 +1,14 @@
-﻿Version actuelle : 1.0.1
- 
+﻿Version actuelle : 1.0.3
+
+### ACTI/UX Public 1.0.3 (2021/02/26) ###
+[+] Définition du tableau des hide - Contribution Matthieu S.
+[+] Définition des nouvelles classes hide - Contribution Matthieu S.
+[+] Suppression des marges négatives dans .grid - William K et contribution Matthieu S.
+[+] Correction d'une erreur de nomination pour les boder radius et suppression des var(--border-radius) au profit de var(--xs-radius)
+
+### ACTI/UX Public 1.0.2 (2021/02/17) ###
+[+] Correction de la classe hide-sml.
+
 ### ACTI/UX Public 1.0.1 (2021/02/17) ###
 [+] Changement de la couleur d'écriture plus contrastée
 [+] Optimisation du reset pour éviter les "blue screen" sur les menus (contribution Matthieu Sarrau)
