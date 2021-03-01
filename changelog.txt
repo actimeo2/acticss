@@ -4,7 +4,7 @@
 [+] Définition du tableau des hide - Contribution Matthieu S.
 [+] Définition des nouvelles classes hide - Contribution Matthieu S.
 [+] Suppression des marges négatives dans .grid - William K et contribution Matthieu S.
-[+] Correction d'une erreur de nomination pour les boder radius et suppression des var(--border-radius) au profit de var(--xs-radius)
+[+] Correction d'une erreur de nomination pour les border radius et suppression des var(--border-radius) au profit de var(--xs-radius)
 
 ### ACTI/UX Public 1.0.2 (2021/02/17) ###
 [+] Correction de la classe hide-sml.
